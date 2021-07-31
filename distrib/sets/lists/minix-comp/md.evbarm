@@ -12,18 +12,18 @@
 ./usr/include/arm/apmvar.h                              minix-comp
 ./usr/include/arm/archconst.h                           minix-comp
 ./usr/include/arm/archtypes.h                           minix-comp
-./usr/include/arm/arm26                                 minix-comp
-./usr/include/arm/arm26/types.h                         minix-comp
-./usr/include/arm/arm32                                 minix-comp
-./usr/include/arm/arm32/frame.h                         minix-comp
-./usr/include/arm/arm32/katelib.h                       minix-comp      obsolete
-./usr/include/arm/arm32/param.h                         minix-comp
-./usr/include/arm/arm32/pmap.h                          minix-comp
-./usr/include/arm/arm32/psl.h                           minix-comp
-./usr/include/arm/arm32/pte.h                           minix-comp
-./usr/include/arm/arm32/rtc.h                           minix-comp
-./usr/include/arm/arm32/types.h                         minix-comp
-./usr/include/arm/arm32/vmparam.h                       minix-comp
+./usr/include/arm/arm64                                minix-comp
+./usr/include/arm/arm64/types.h                         minix-comp
+./usr/include/arm/arm64                                 minix-comp
+./usr/include/arm/arm64/frame.h                         minix-comp
+./usr/include/arm/arm64/katelib.h                       minix-comp      obsolete
+./usr/include/arm/arm64/param.h                         minix-comp
+./usr/include/arm/arm64/pmap.h                          minix-comp
+./usr/include/arm/arm64/psl.h                           minix-comp
+./usr/include/arm/arm64/pte.h                           minix-comp
+./usr/include/arm/arm64/rtc.h                           minix-comp
+./usr/include/arm/arm64/types.h                         minix-comp
+./usr/include/arm/arm64/vmparam.h                       minix-comp
 ./usr/include/arm/armreg.h                              minix-comp
 ./usr/include/arm/asm.h                                 minix-comp
 ./usr/include/arm/atomic.h                              minix-comp
