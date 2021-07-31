@@ -194,6 +194,6 @@
 
 #if defined(__minix)
 /* LSC: FIXME This is a hack. Good enough for now, as we only have ARMv7 targets. */
-#include <arm/arm32/param.h>
+#include <arm/arm64/param.h>
 #endif /* defined(__minix) */
 #endif /* _ARM_PARAM_H_ */
