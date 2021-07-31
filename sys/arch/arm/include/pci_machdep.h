@@ -40,7 +40,7 @@
 /*
  * Types provided to machine-independent PCI code
  */
-typedef struct	arm32_pci_chipset	*pci_chipset_tag_t;
+typedef struct	arm64_pci_chipset	*pci_chipset_tag_t;
 typedef u_long	pcitag_t;
 typedef u_long	pci_intr_handle_t;
 
